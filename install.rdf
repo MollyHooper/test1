@@ -3,5 +3,13 @@
 	<Description about="urn:mozilla:install-manifest">
 		<em:name>Name in English</em:name>
 		<em:description>Description in English</em:description>
+
+		<em:localized>
+			<Description>
+				<em:locale>ab-CD</em:locale>
+				<em:name>Námę įn Englĭsh</em:name>
+				<em:description>Dęscrìptîón įn Englįsh</em:description>
+			</Description>
+		</em:localized>
 	</Description>
 </RDF>
